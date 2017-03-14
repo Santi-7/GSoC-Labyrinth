@@ -33,3 +33,15 @@ cd build
 cmake ..
 make
 ```
+## Usage
+
+```
+Labyrinth <input_file>
+```
+
+The program will output the result in a file with name 'output.txt'.
+
+## Authors
+This project was made by Santiago Gil Begué.
+
+###### [Apache 2.0 license](https://raw.githubusercontent.com/Santi-7/GSoC-Labyrinth/master/LICENSE). If you use this code or parts of it, please name me.
